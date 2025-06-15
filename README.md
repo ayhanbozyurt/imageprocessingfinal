@@ -10,11 +10,11 @@ Name Surname: Aygan Bozyurt
 Student ID: B2180.060058
 
 # Python Libraries
-OpenCV (cv2)
+OpenCV (cv2):
 Basic library for image processing operations. 
 
-NumPy (numpy)
+NumPy (numpy):
 Used for numerical operations and matrix calculations. 
 
-Matplotlib (matplotlib.pyplot)
+Matplotlib (matplotlib.pyplot):
 Used for visualization of images and histograms.
